@@ -13,6 +13,7 @@
 ## Інструкції для збірки та запуску
 1. **Клонувати репозиторій:**
    * git clone https://github.com/andrfurs/java-software-dev-lab-1
+
    *або*
    * Відкрити IntelliJ IDEA
    * Натиснути "Get from VCS"
