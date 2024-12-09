@@ -19,6 +19,6 @@
    * Натиснути "Get from VCS"
    * Вставити у поле URL https://github.com/andrfurs/java-software-dev-lab-1
    * Натиснути Clone
-2. **Відкрити клонований проект**
+2. **Відкрити клонований проект в IntelliJ IDEA**
 3. **Відкрити Main.java**
 4. **Натиснути Run або Shift+F10**
